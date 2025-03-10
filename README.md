@@ -1,19 +1,19 @@
 # DSA-210-SPRING
 # 📌 DSA210 - Obesity & Mental Health Analysis
 
-## 👋 Introduction
+## Introduction
 Hello, I am Nil Akıner (32685). This project is prepared for the DSA210 course during the Spring 2025 semester.
 
-## 📖 Project Overview
+## Project Overview
 Obesity is a major global health issue influenced by psychological, behavioral, and environmental factors. I believe obesity is one of the most significant health issues of our time, and given today’s global conditions, psychology and living standards play a direct or indirect role in its prevalence, perhaps even in a mutually influential way.  
 
 This project aims to examine how mental health, stress, and lifestyle contribute to various issues, such as obesity**. I plan to explore their relationships and prevalence across different populations, and perhaps in relation to gender.
 
 ---
 
-## 🔍 Key Factors and Data Sources
+## Key Factors and Data Sources
 
-### 📊 Obesity Data
+### Obesity Data
 - Source: World Health Organization (WHO) dataset  
 - Purpose: Analyze country-level and gender-based obesity prevalence, identifying trends and making gender-based inferences.  
 - Format: CSV  
@@ -21,7 +21,7 @@ This project aims to examine how mental health, stress, and lifestyle contribute
 
 ---
 
-### 🧠 Mental Health & Stress
+### Mental Health & Stress
 - Source: Mental Health Dataset (Kaggle)  
 - Purpose: Examine self-reported mental health history, stress levels, and coping mechanisms.  
 - Format: CSV  
@@ -30,7 +30,7 @@ This project aims to examine how mental health, stress, and lifestyle contribute
 
 ---
 
-### 🔬 Personality Traits
+### Personality Traits
 - Source: Drug Consumption Dataset (Kaggle)  
 - Purpose: Includes personality traits such as:
   -  Neuroticism (Nscore)
@@ -42,15 +42,15 @@ This project aims to examine how mental health, stress, and lifestyle contribute
 
 ---
 
-### 🖥️ Tools
+### Tools
 - Python 🐍 – For data processing, analysis, and visualization.  
 
 ### 📚 Libraries
-- 📊 pandas – For data manipulation, cleaning, and grouping.  
-- 🔢 numpy – For numerical computations and handling large datasets.  
-- 📉 matplotlib & seaborn – (For future steps) Creating visualizations and exploring trends.  
-- 🤖 scikit-learn – (Planned for future steps) Machine learning-based obesity prediction.  
-- 📆 datetime – Used for handling and filtering time-based data.  
+- pandas – For data manipulation, cleaning, and grouping.  
+- numpy – For numerical computations and handling large datasets.  
+- matplotlib & seaborn – (For future steps) Creating visualizations and exploring trends.  
+- scikit-learn – (Planned for future steps) Machine learning-based obesity prediction.  
+- datetime – Used for handling and filtering time-based data.  
 
 ---
 
