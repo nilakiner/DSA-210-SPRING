@@ -45,7 +45,7 @@ This project aims to examine how mental health, stress, and lifestyle contribute
 ### Tools
 - Python 🐍 – For data processing, analysis, and visualization.  
 
-### 📚 Libraries
+### Libraries
 - pandas – For data manipulation, cleaning, and grouping.  
 - numpy – For numerical computations and handling large datasets.  
 - matplotlib & seaborn – (For future steps) Creating visualizations and exploring trends.  
